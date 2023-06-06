@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "print-js": "^1.6.0",
+    "puppeteer": "^19.2.2",
+    "selenium-webdriver": "^4.6.0"
+  },
+  "name": "chaitu",
+  "version": "1.0.0",
+  "description": "a",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
